@@ -1,0 +1,21 @@
+{
+	"template": {
+		"template_id": "2",
+		"background_image_url": "https://raw.githubusercontent.com/gabrielPeart/campaign-template2/master/1_1.jpg",
+		"title": "Lifesum Premium keeps you hydrated",
+		"sub_title": "Short descriptive text that can extend even further down to multiple lines",
+		"button": {
+			"label": "BUTTON LABEL",
+			"termsLabel": "By perfoming this action you agree to our Terms of Service and all other related actions within the interactive experience",
+			"action": "open_premium_view"
+		}
+	},
+	"android_metadata": {
+		"skus": {
+			"1": "<string>",
+			"3": "<string>",
+			"12": "<string>"
+		}
+	},
+	"ios_metadata": {}
+}
