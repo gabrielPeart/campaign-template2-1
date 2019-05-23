@@ -1,24 +1,14 @@
 {
-	"template": {
-		"template_id": "2",
-		"background_image_url": "https://raw.githubusercontent.com/gabrielPeart/campaign-template2-1/master/small.jpg",
-		"title": "Lifesum Premium keeps you hydrated",
-		"sub_title": "Short descriptive text that can extend even further down to multiple lines",
-		"button": {
-			"label": "BUTTON LABEL",
-			"termsLabel": "By perfoming this action you agree to our Terms of Service and all other related actions within the interactive experience",
-			"action": {
-				"type": "recipe",
-				"argument": "150"
-			}
+	"template_id": "2",
+	"background_image_url": "https://raw.githubusercontent.com/gabrielPeart/campaign-template2-1/master/small.jpg",
+	"title": "Lifesum Premium keeps you hydrated",
+	"sub_title": "Short descriptive text that can extend even further down to multiple lines",
+	"button": {
+		"label": "BUTTON LABEL",
+		"termsLabel": "By perfoming this action you agree to our Terms of Service and all other related actions within the interactive experience",
+		"action": {
+			"type": "recipe",
+			"argument": "150"
 		}
-	},
-	"android_metadata": {
-		"skus": {
-			"1": "<string>",
-			"3": "<string>",
-			"12": "<string>"
-		}
-	},
-	"ios_metadata": {}
+	}
 }
