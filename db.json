@@ -8,7 +8,10 @@
 		"termsLabel": "By perfoming this action you agree to our Terms of Service and all other related actions within the interactive experience",
 		"action": {
 			"type": "recipe",
-			"argument": "150"
+			"argument": {
+				"name": "recipe_id",
+				"value": "150"
+			}
 		}
 	}
 }
